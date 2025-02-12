@@ -2,7 +2,7 @@
 
 
 ## 1 - Clonar o reposítório:
-* git clone https://github.com/eduardanevesphilips/yes-bank-microfrontend.git
+* git clone https://github.com/eduardasneves18/yesbank-microfrontend.git
 
 `
 ## 2 - Entrar na pasta raiz do projeto cd yes-bank-microfrontend e executar o comando
